@@ -1,0 +1,14 @@
+langchain==0.2.11
+python-dotenv==1.0.0
+streamlit==1.22.0
+unstructured==0.9.2
+faiss-cpu==1.8.0.post1
+libmagic==1.0
+python-magic==0.4.27
+OpenAI==0.28.0
+pickle-mixin
+sentence-transformers==3.0.1
+langchain-community
+groq==0.9.0
+requests
+beautifulsoup4
